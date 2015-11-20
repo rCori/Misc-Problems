@@ -1,0 +1,82 @@
+Testing the constructor
+Expected value is 
+Main Stack
+
+Minimum Stack
+
+and actual output is
+Main Stack
+
+Minimum Stack
+
+Success!
+
+
+Testing Push function
+Expected value is 
+Main Stack
+7 -> 2 -> 4
+Minimum Stack
+2 -> 4
+and actual output is
+Main Stack
+7 -> 2 -> 4
+Minimum Stack
+2 -> 4
+Success!
+
+Testing Push function
+Expected value is 
+Main Stack
+1.3 -> 6.6 -> 2.4 -> 9.95
+Minimum Stack
+1.3 -> 2.4 -> 9.95
+and actual output is
+Main Stack
+1.3 -> 6.6 -> 2.4 -> 9.95
+Minimum Stack
+1.3 -> 2.4 -> 9.95
+Success!
+
+
+Testing Pop function
+Expected value is 
+Main Stack
+2 -> 9
+Minimum Stack
+2 -> 9
+and actual output is
+Main Stack
+2 -> 9
+Minimum Stack
+2 -> 9
+Success!
+
+Testing Pop function
+Expected value is 
+Main Stack
+6.5 -> 1.2 -> 5.4
+Minimum Stack
+1.2 -> 5.4
+and actual output is
+Main Stack
+6.5 -> 1.2 -> 5.4
+Minimum Stack
+1.2 -> 5.4
+Success!
+
+
+Testing Min function
+Expected value is 
+1.2
+and actual output is
+1.2
+Success!
+
+Testing Min function
+Expected value is 
+2
+and actual output is
+2
+Success!
+All tests passed!

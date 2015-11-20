@@ -1,0 +1,25 @@
+Testing construction of LinkedList
+Expected value is "" and actual value is ""
+Success!
+Testing construction of LinkedList
+Expected value is "a" and actual value is "a"
+Success!
+Testing construction of LinkedList
+Expected value is "test" and actual value is "test"
+Success!
+
+
+Testing LinkedList::Add
+Expected value is "b -> a -> s -> s" and actual value is "b -> a -> s -> s"
+Success!
+Testing LinkedList::Add
+Expected value is "1.2 -> 1.3 -> 1.4 -> 1.5" and actual value is "1.2 -> 1.3 -> 1.4 -> 1.5"
+Success!
+
+
+Testing LinkedList::GetAt
+Expected value is "3" and actual value is "3"
+Success!
+
+
+All tests successful
